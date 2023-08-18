@@ -1,4 +1,4 @@
-# ITHELPDESKANALYSIS
+# IT HELP DESK ANALYSIS
 Challenge: IT HELP DESK ANALYSIS. Tool: Microsoft Power BI
 
 With this challenge, With this challenge, IT service ticket data will be analyzed to build the operational dashboards to measure metrics over time.
